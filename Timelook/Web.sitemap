@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/" title="Home" description="Home">
+    <siteMapNode url="~/Default.aspx" title="Home" description="Go To The HomePage" >
+    </siteMapNode>
+    <siteMapNode url="~/ContentPages/About.aspx" title="About" description="About this web site" >
+    </siteMapNode>
+    <siteMapNode url="~/ContentPages/Tips.aspx" title="Tips" description="View tips that can assist you with your next task."></siteMapNode>
+    <siteMapNode url="~/ContentPages/Calculate.aspx" title="Timelook Calculator" description="Calculator that will help efficiently manage time."></siteMapNode>
+    <siteMapNode url="~/ContentPages/Contact.aspx" title="Contact" description="Contact for more information.">
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
